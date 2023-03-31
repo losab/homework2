@@ -13,8 +13,8 @@ const Parent = ()=>{
     )
 };
 export default Parent;
-if ( isUserLoggedIn = true ) {
-    return Users;
-} else {
-    return('you are not authorized to see user list')
-}
+// if ( isUserLoggedIn = true ) {
+//     return Users;
+// } else {
+//     return('you are not authorized to see user list')
+// }
